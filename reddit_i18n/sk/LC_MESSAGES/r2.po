@@ -94,196 +94,196 @@ msgstr "zmazané"
 
 #: r2/controllers/api.py:1215 r2/templates/subredditstylesheet.html:199
 msgid "bad image name"
-msgstr ""
+msgstr "nesprávne meno obrázku"
 
 #: r2/controllers/api.py:1219
 #, python-format
 msgid "too many images (you only get %d)"
-msgstr ""
+msgstr "priveľa obrázko (dostaneš iba %d)"
 
 #: r2/controllers/api.py:1227
 msgid "Invalid image or general image error"
-msgstr ""
+msgstr "Neplatný obrázok alebo iná chyba obrázku"
 
 #: r2/controllers/api.py:1682
 msgid "claimed! now go to someone's userpage and give them a present!"
-msgstr ""
+msgstr "potvrdené! teraz choď na niekoho profil  a mu darček!"
 
 #: r2/controllers/api.py:1687
 msgid "claimed!"
-msgstr ""
+msgstr "potvrdené!"
 
 #: r2/controllers/api.py:1703
 msgid "an email will be sent to that account's address shortly"
-msgstr ""
+msgstr "email bude zachvílu zaslaný na adresu tohto účtu"
 
 #: r2/controllers/api.py:1705
 msgid "try again tomorrow"
-msgstr ""
+msgstr "skús zajtra znova"
 
 #: r2/controllers/api.py:1932 r2/controllers/api.py:2113
 msgid "invalid css class"
-msgstr ""
+msgstr "neplatná trieda css"
 
 #: r2/controllers/api.py:1935 r2/controllers/api.py:2116
 msgid "too many css classes"
-msgstr ""
+msgstr "príliš veľa css tried"
 
 #: r2/controllers/api.py:2132
 msgid "max flair templates reached"
-msgstr ""
+msgstr "maximum flair šablón"
 
 #: r2/controllers/buttons.py:201 r2/controllers/buttons.py:209
 msgid "reddit buttons"
-msgstr ""
+msgstr "reddit tlačidlá"
 
 #: r2/controllers/buttons.py:215
 msgid "reddit widget"
-msgstr ""
+msgstr "reddit widget"
 
 #: r2/controllers/buttons.py:220
 msgid "bookmarklets"
-msgstr ""
+msgstr "bookmarklety"
 
 #: r2/controllers/buttons.py:225 r2/controllers/front.py:757
 #: r2/lib/menus.py:87 r2/templates/newlink.html:110
 msgid "submit"
-msgstr ""
+msgstr "pridaj"
 
 #: r2/controllers/embed.py:65
 msgid "edit this page"
-msgstr ""
+msgstr "uprav túto stránku"
 
 #: r2/controllers/embed.py:66
 msgid "yes, it's okay!"
-msgstr ""
+msgstr "áno, to je správne!"
 
 #: r2/controllers/embed.py:67
 msgid "just read this first."
-msgstr ""
+msgstr "proste si to najprv prečítaj"
 
 #: r2/controllers/embed.py:83 r2/lib/menus.py:88 r2/lib/pages/pages.py:425
 #: r2/templates/frametoolbar.html:107
 msgid "help"
-msgstr ""
+msgstr "pomoc"
 
 #: r2/controllers/error.py:141
 #, python-format
 msgid "forbidden (%(domain)s)"
-msgstr ""
+msgstr "zakazaná (%(domain)s)"
 
 #: r2/controllers/error.py:162
 msgid "this reddit has been banned"
-msgstr ""
+msgstr "tento reddit bol zabanovaný"
 
 #: r2/controllers/errors.py:27
 msgid "please login to do that"
-msgstr ""
+msgstr "prosím, prihlás sa pre to"
 
 #: r2/controllers/errors.py:28
 msgid "you need to set a valid email address to do that."
-msgstr ""
+msgstr "musíš si nastaviť platnú email adresu pre toto"
 
 #: r2/controllers/errors.py:29
 msgid "a url is required"
-msgstr ""
+msgstr "odkaz je požadovaný"
 
 #: r2/controllers/errors.py:30
 msgid "you should check that url"
-msgstr ""
+msgstr "mal by si skontrolovať ten odkaz"
 
 #: r2/controllers/errors.py:31
 msgid "care to try these again?"
-msgstr ""
+msgstr "chceš ich znova skúsiť?"
 
 #: r2/controllers/errors.py:32
 msgid "invalid user name"
-msgstr ""
+msgstr "neplatné užívateľské meno"
 
 #: r2/controllers/errors.py:33
 msgid "that username is already taken"
-msgstr ""
+msgstr "toto užívateľské meno už niekto používa"
 
 #: r2/controllers/errors.py:34
 msgid "that username is taken by a deleted account"
-msgstr ""
+msgstr "toto užívateľské meno patrí zmazanému účtu"
 
 #: r2/controllers/errors.py:35
 msgid "you can't send to a user that you have blocked"
-msgstr ""
+msgstr "nemóžeš posielať užívateľovi, ktorého blokuješ"
 
 #: r2/controllers/errors.py:36
 msgid "id not specified"
-msgstr ""
+msgstr "id nešpecifikované"
 
 #: r2/controllers/errors.py:37
 msgid "you can't do that"
-msgstr ""
+msgstr "to nemôžeš urobiť"
 
 #: r2/controllers/errors.py:38
 msgid "you are not logged in as that user"
-msgstr ""
+msgstr "niesi prihlásený ako tento užívateľ"
 
 #: r2/controllers/errors.py:39
 msgid "the link you are commenting on has been deleted"
-msgstr ""
+msgstr "odkaz ktorý komentuješ  bol zmazaný"
 
 #: r2/controllers/errors.py:40
 msgid "that comment has been deleted"
-msgstr ""
+msgstr "tento komentár bol zmazaný"
 
 #: r2/controllers/errors.py:41
 msgid "that element has been deleted"
-msgstr ""
+msgstr "tento element bol zmazaný"
 
 #: r2/controllers/errors.py:42
 msgid "that password is unacceptable"
-msgstr ""
+msgstr "toto heslo je neprijateľné"
 
 #: r2/controllers/errors.py:43
 msgid "invalid password"
-msgstr ""
+msgstr "neplatné heslo"
 
 #: r2/controllers/errors.py:44
 msgid "passwords do not match"
-msgstr ""
+msgstr "heslá sa nezhodujú"
 
 #: r2/controllers/errors.py:45
 msgid "please enter a name"
-msgstr ""
+msgstr "prosím zadaj meno"
 
 #: r2/controllers/errors.py:46
 msgid "please enter an email address"
-msgstr ""
+msgstr "prosím zadaj emailovú adresu"
 
 #: r2/controllers/errors.py:47
 msgid "no email address for that user"
-msgstr ""
+msgstr "tento užívateľ nemá  emailovú adresu"
 
 #: r2/controllers/errors.py:48
 msgid "send it to whom?"
-msgstr ""
+msgstr "poslať to komu?"
 
 #: r2/controllers/errors.py:49
 msgid "please enter a subject"
-msgstr ""
+msgstr "prosím vlož predmet"
 
 #: r2/controllers/errors.py:50 r2/templates/gold.html:144
 msgid "that user doesn't exist"
-msgstr ""
+msgstr "tento užívateľ neexistuje"
 
 #: r2/controllers/errors.py:51
 msgid "please enter a username"
-msgstr ""
+msgstr "prosím zadaj prezývku"
 
 #: r2/controllers/errors.py:53
 #, python-format
 msgid "that number isn't in the right range (%(min)d to %(max)d)"
-msgstr ""
+msgstr "toto číslo nie je v správnom rozmedzí (%(min)d do %(max)d)"
 
 #: r2/controllers/errors.py:54
 msgid "you used a character here that we can't handle"
-msgstr ""
+msgstr "použil si znak ktorý nemožeme spracovať"
 
 #: r2/controllers/errors.py:55
 #, python-format
